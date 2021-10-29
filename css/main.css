@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.flag{
+    background: #fff;
+    border: 2px solid lightgrey;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rectangle1{
+    background: red;
+    width: 85px;
+    height: 298px;
+    justify-content: left;
+}
+
+.img{
+    color: red;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2{
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rectangle2{
+    background: red;
+    width: 85px;
+    height: 298px;
+}
+
+.crescent{
+    background: red;
+    border: 2px solid lightgrey;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
